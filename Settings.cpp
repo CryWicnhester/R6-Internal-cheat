@@ -27,7 +27,6 @@ Settings::Settings()
 	this->fSpread = 1.f;
 	this->bAccuracyNoRecoil = false;
 	this->fRecoil = 1.f;
-	this->bAccuracNoADSRecoil = false;
 
 	this->Menu = false;
 }
